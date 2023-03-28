@@ -1,0 +1,17 @@
+# github.com/blacked/go-zabbix v0.0.0-20170118040903-3c6a95ec4fdc
+## explicit
+github.com/blacked/go-zabbix
+# github.com/gmauleon/alertmanager-zabbix-webhook v0.4.0
+## explicit
+github.com/gmauleon/alertmanager-zabbix-webhook/webhook
+# github.com/sirupsen/logrus v1.9.0
+## explicit; go 1.13
+github.com/sirupsen/logrus
+# golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
+## explicit; go 1.17
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# gopkg.in/yaml.v2 v2.4.0
+## explicit; go 1.15
+gopkg.in/yaml.v2
